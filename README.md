@@ -8,6 +8,8 @@
                       
 ```
                   
-"resh" is a computational neuroscience tool designed to perform quantitative analysis on IF images using publicly available brain atlases. 
+Tool that performs quantitative analysis on IF brain sections using publicly available brain atlases.
+vector manipulation offloaded to other editors such as Inkscape (lmao cba)
+
 
 File types supported: .svg and .ome.tif
